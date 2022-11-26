@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Agroculture Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Эльдар Гиль
+language: ru
 timezone: ''
 
 # URL
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+## theme: landscape
+theme: new-theme
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
